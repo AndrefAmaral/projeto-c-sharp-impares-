@@ -1,0 +1,13 @@
+C:\dev\Impares\obj\Debug\netcoreapp3.1\Impares.csprojAssemblyReference.cache
+C:\dev\Impares\obj\Debug\netcoreapp3.1\Impares.AssemblyInfoInputs.cache
+C:\dev\Impares\obj\Debug\netcoreapp3.1\Impares.AssemblyInfo.cs
+C:\dev\Impares\obj\Debug\netcoreapp3.1\Impares.csproj.CoreCompileInputs.cache
+C:\dev\Impares\bin\Debug\netcoreapp3.1\Impares.exe
+C:\dev\Impares\bin\Debug\netcoreapp3.1\Impares.deps.json
+C:\dev\Impares\bin\Debug\netcoreapp3.1\Impares.runtimeconfig.json
+C:\dev\Impares\bin\Debug\netcoreapp3.1\Impares.runtimeconfig.dev.json
+C:\dev\Impares\bin\Debug\netcoreapp3.1\Impares.dll
+C:\dev\Impares\bin\Debug\netcoreapp3.1\Impares.pdb
+C:\dev\Impares\obj\Debug\netcoreapp3.1\Impares.dll
+C:\dev\Impares\obj\Debug\netcoreapp3.1\Impares.pdb
+C:\dev\Impares\obj\Debug\netcoreapp3.1\Impares.genruntimeconfig.cache
